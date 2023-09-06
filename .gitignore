@@ -1,0 +1,13 @@
+
+node_modules
+package-lock.json
+package.json
+
+
+.env            # Игнорировать файлы с переменными окружения
+
+# Если вы используете WebStorm или IntelliJ IDEA, добавьте следующее:
+.idea
+
+# Если вы используете Visual Studio Code, добавьте следующее:
+.vscode
